@@ -5,7 +5,7 @@
 Research --> Plan --> Exploration --> Communicate --> Design --> Quality Assurance --> Feedback
 
 ##### Research
-  - [Existing website review](#existing website review)
+  - [Existing website review](#existing-website-review)
   - Competitive Analysis - *See how others solve similar problems and try to not reinvent the wheel.*
   - Data analysis - *Do you have all the useful data you need? Try to have a look at funnels, clicks, page views, performances...*
   - User feedback - *Always speak with Customer Care team! Don't have one? Check your old surveys or videos, what your customer says? What do they actually do?*
@@ -54,10 +54,12 @@ Research --> Plan --> Exploration --> Communicate --> Design --> Quality Assuran
   - KPI testing - *What you want to achieve? What are your goals? Write down how you define success and failure and check if you have everything you need to collect the data.*
   - A/B testing - *Plan your AB test ahead and, if you can, plan a short roadmap of improvements. Your goal is not just improving KPIs, but learning something.*
   - Test - *UX lab, survey, sessions recording... test, observe and fix, test, observer and fix...*
-  
+
   ---
 
 ### Existing website review
+
+#### Heuristic Review
 
 A review methodology should be used to avoid snap judgements. Also allows for the review process to be much much organised so that when doing this repeatedly, you remain consistent.
 
@@ -91,6 +93,31 @@ Take into consideration these broad categories when exploring the website in det
 
 Use these broad categories to formulate a set of questions to repeatedly ask through the website. Example when reviewing the layout and visual design ask;
  *Are standard elements (such as page titles, website navigation, page navigation and privacy policy) easy to locate?*
+
+##### Scoring system
+
+Once you have devised your list of question addressing the above categories the idea is to score each of the categories using a points system.
+
+  - 0 if it falls shorts
+  - 1 if it's halway there
+  - 2 if it does the job
+
+Create a table using these sums like so:
+
+| List item | Questions | Possible Score | Actual Score | Result |
+|-----------|-----------|----------------|--------------|--------|
+| Home page | 20        | 40             |  38          | 95%    |
+| Task Orientation | 35 | 70 | 67 | 96% |
+| Overall score | 288 | 383 | 457 | 95% |
+
+##### Visualise
+
+It's handy to visualise these strengths and weaknesses using a radar diagram. Problem areas or bias becomes instantly identifiable.
+
+##### Competitor Reviews
+
+A useful way to identify weaknesses in the market and point of difference opportunities is to complete a heuristic review on competitor websites, and place them up against each.
+
 
 
 
