@@ -6,9 +6,9 @@ Research --> Plan --> Exploration --> Communicate --> Design --> Quality Assuran
 
 ##### Research
   - [Existing website review](#existing-website-review)
-  - Competitive Analysis - *See how others solve similar problems and try to not reinvent the wheel.*
-  - Data analysis - *Do you have all the useful data you need? Try to have a look at funnels, clicks, page views, performances...*
-  - User feedback - *Always speak with Customer Care team! Don't have one? Check your old surveys or videos, what your customer says? What do they actually do?*
+  - [Competitive Analysis](#competitive-analysis) - See how others solve similar problems and try to not reinvent the wheel.
+  - Data analysis - Do you have all the useful data you need? Try to have a look at funnels, clicks, page views, performances...
+  - [User feedback](#user-feedbacl) - Always speak with Customer Care team! Don't have one? Check your old surveys or videos, what your customer says? What do they actually do?
 
 ##### Plan
   - User stories - *Have you done personas yet. If not DO IT NOW. Ok, now use them to write down user stories and scenarios.*
@@ -56,6 +56,8 @@ Research --> Plan --> Exploration --> Communicate --> Design --> Quality Assuran
   - Test - *UX lab, survey, sessions recording... test, observe and fix, test, observer and fix...*
 
   ---
+
+## Research
 
 ### Existing website review
 
@@ -119,8 +121,83 @@ It's handy to visualise these strengths and weaknesses using a radar diagram. Pr
 A useful way to identify weaknesses in the market and point of difference opportunities is to complete a heuristic review on competitor websites, and place them up against each.
 
 
+### Competitive Analysis
 
+Competitive analysis is the exploration of the companies industry sector or market niche. The level of depth and detail of analysis into these competitors is up to you, based on time available. You can either do a broad high-level analysis or a top-5 style low-level analysis.
 
+There 4 main benefits from completing a competitive analysis:
+
+**You will understand the competition**
+
+See what the other guys are doing, what are they offering to their customers, if their target audience the same and if not where does it differ and what can you do to create or maintain a compeitive advantage.
+
+**You can build your domain knowledge**
+
+Collating references of other sites in the industry will inform those working on the project, teaching them about content and functionality that they may not have considered.
+
+**Identify best practices**
+
+Looking at your competitors websites enables you to see what is working for them and what is being commonly offered on the web in that industry.
+
+If all your competitors are offering feature A and feature B, users will expect your site to also house those features. If they are absent, users may go to the competitors.
+
+Main goals from your competitive analysis should be:
+- Learn from your competitors mistakes
+- Avoid reinventing the wheel
+- Find a better implementation from where they left off
+
+**Expand the dialogue and the possibilities**
+
+Finally, analysing your competitors expands the dialogue within the development team and can inform your strategic direction. New options may be found, if all the other guys are taking various approaches, and hence no standard approach exists.
+
+#### Qualitative data
+##### High-level inventories
+
+| | Competitor 1 | Competitor 2 | Competitor 3 |
+|-|-|-|-|
+| Feature 1 | Y |   | Y |
+| Feature 2 |   | Y |   |
+| Feature 3 | Y | Y | Y |
+
+##### Labeling and taxonomies
+
+For projects involving hundreds of pages, the focus would expand beyond the inventory to analyzing hierarchy and labeling.
+
+##### Visual Style
+
+The graphic design of the competitor websites/web applications sets an immediate tone for the user experience and communicates professionalism, credibility, and usability.
+
+##### Strengths and area for improvement  
+
+A useful starting point for identifying strengths and areas for improvement can be user experience heuristics.
+
+The heuristics that I typically use are:
+
+- Efficient Navigation
+- Organizational Clarity
+- Clear Labeling
+- Consistent Design
+- Matching User Expectations
+- Effective Visual Design
+- Supporting Readability & Scannability
+- Facilitating User Tasks
+- Providing Help
+
+The strengths become discussion points and possibilities for emulation and improvement.Areas for improvement put the focus on competitive advantage, as they represent competitor shortcomings as well as pitfalls to be avoided.
+
+#### Quantitative Analysis
+
+##### Ranking and rating
+
+One approach in the quantitative analysis is to rank and rate competitors. Competitors can be assigned a score for each of the heuristics, which then results in individual and aggregate measures of the user experience for comparison purposes.
+
+##### User performance
+
+If user testing is conducted, various metrics can be assessed. These include time on task, number of clicks to destination, path to destination, errors, and success rates.
+
+##### Search engine positioning
+
+A final area for analysis is ranking in major search engines, which could expand into an examination of marketing efforts by the competitors. There should be a set of common keywords for companies in the same market space, and top placement is a definite advantage in attracting new users.
 
 
 
