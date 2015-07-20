@@ -8,10 +8,11 @@ Research --> Plan --> Exploration --> Communicate --> Design --> Quality Assuran
   - [Existing website review](#existing-website-review)
   - [Competitive Analysis](#competitive-analysis) - See how others solve similar problems and try to not reinvent the wheel.
   - Data analysis - Do you have all the useful data you need? Try to have a look at funnels, clicks, page views, performances...
-  - [User feedback](#user-feedbacl) - Always speak with Customer Care team! Don't have one? Check your old surveys or videos, what your customer says? What do they actually do?
+  - [User feedback](#user-feedback) - Always speak with Customer Care team! Don't have one? Check your old surveys or videos, what your customer says? What do they actually do?
 
 ##### Plan
-  - User stories - *Have you done personas yet. If not DO IT NOW. Ok, now use them to write down user stories and scenarios.*
+  - [Personas](#personas)
+  - [User stories](#user-stories) - *Have you done personas yet. If not DO IT NOW. Ok, now use them to write down user stories and scenarios.*
   - User flows - *Create your user's flow based on the scenarios you created, you can use it later to review the journey and create wireframes on top of each step.*
   - Red Routes - *Define red routes for your product and you’ll be able to identify, prioritise and eliminate any usability obstacles on key user journeys.*
 
@@ -198,6 +199,49 @@ If user testing is conducted, various metrics can be assessed. These include tim
 ##### Search engine positioning
 
 A final area for analysis is ranking in major search engines, which could expand into an examination of marketing efforts by the competitors. There should be a set of common keywords for companies in the same market space, and top placement is a definite advantage in attracting new users.
+
+## PLAN
+
+### Personas
+
+Creating personas is an important part of the research and planning stages as it prevents you from making the mistaking of thinking that something else is all about you.
+
+It is recommended to create at least 3-5 web personas, focused on qualitative assessment, like a story about your persona.
+
+#### The process
+
+1. Create a persona document including information:
+  - Name
+  - Description
+  - Photo
+2. Refer to them based on their description e.g. "analytical influencer"
+3. Include a longer description that focuses on what that person values and the way they make decisions. As well as some personal information
+4. Precision is more important than accuracy. Make is realistic.
+5. To test - use and act out the decision making scenarios
+  - Search engine query
+  - Follow their path from your landing page to your low level detail and responding to the call to actions
+
+There are two basic types: decision makers and influencers.
+
+**Decision makers** (most specific web personas) - type of person who is looking to buy a product or service. They are looking fro a solution to a immediate problem and quickly. They are looking for:
+- Key facts
+- Specific benefits
+- Pricing
+- Clear CTA
+
+**Influencers** - gather information in order to help them make decision. One day they might become decision makers, but not right now. They are looking for informational content:
+- Blogs
+- Articles
+- Whitepapers
+- Webinars
+- Customer forums
+- CTA - to subscribe to content or register for events
+
+Consider two basic behavioral personas when planning the IA:
+- User browsing oriented - tend twoard exploring a sites menus in order to gain understanding of content
+- Search oriented - immediately use a websites search function to find what they are looking for
+
+
 
 
 
