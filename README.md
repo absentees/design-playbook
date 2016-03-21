@@ -66,7 +66,7 @@ Research --> Plan --> Exploration --> Communicate --> Design --> Quality Assuran
 
 A review methodology should be used to avoid snap judgements. Also allows for the review process to be much much organised so that when doing this repeatedly, you remain consistent.
 
-An apparoach to doing this is called a Heuristic Website Review, heuristic meaning the measurement of something that cant readily be quantified.
+An approach to doing this is called a Heuristic Website Review, heuristic meaning the measurement of something that cant readily be quantified.
 
 > NOTE: Do not just a website based on it's visual appeal. Sites like amazon, ebay, google and even facebook may not be visually appealing but functionally are perfect
 
