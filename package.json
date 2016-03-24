@@ -1,0 +1,24 @@
+{
+  "name": "design-playbook",
+  "version": "1.0.0",
+  "description": "#### Overall UX Design Process",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absentees/design-playbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/absentees/design-playbook/issues"
+  },
+  "homepage": "https://github.com/absentees/design-playbook#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.2.0"
+  }
+}
