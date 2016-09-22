@@ -95,7 +95,7 @@ Research --> Plan --> Exploration --> Communicate --> Design --> Quality Assuran
 
 ## Research
 
-### Kick off meeting
+### Kick off meeting - full
 
 Questions to Ask at Kick-Off Meetings - taken from https://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html
 
@@ -162,7 +162,24 @@ Questions to Ask at Kick-Off Meetings - taken from https://www.usability.gov/how
   - Do you have the available resources to complete your project on time?
   - Who will be responsible for managing the project plan and timeline?
 
+### Kick off meeting - short
 
+If short of time the bare minimum questions need to be answered in order to be able to get cracking:
+
+1. What is the purpose of the site?
+2. What are the goals of the site?
+3. Why will users come to the site?
+4. Has creative been completed? If not, who is delivering it? Is there a handover?
+4. Are there any restraints, mandates, or guidelines regarding design for the site?
+5. Are there any sites you would like to model or a particular style that you prefer?
+6. What are your hosting needs?
+7. Do you currently have a domain name or do you need a new one?
+8. Are there current mandates or deadlines in place requiring you to complete your project by a specific date?
+9. Can you think of any issues that may arise that could delay your project completion? If so, do you have a plan for ensuring that the project moves forward?
+10. When do you want to complete the project?
+11. When and what will be included in v1? v2? v3...
+12. Who will be responsible for managing the project plan and timeline?
+13. Are the responses to the above accepted by all stakeholders?
 
 ### Existing website review
 
